@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#2E9E5B"
+
+[server]
+headless = true
