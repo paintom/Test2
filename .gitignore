@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Playwright 검증 산출물(스크린샷, 콘솔 로그)
+.playwright-mcp/
+
+# Streamlit 비밀 설정(실수로 올라가지 않도록)
+.streamlit/secrets.toml
+
+# 에디터 / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
